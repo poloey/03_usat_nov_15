@@ -1,0 +1,22 @@
+# command
+touch
+ls
+mkdir
+cp
+mv
+rm
+pwd
+clear
+cd
+
+# flag always start with -
+a
+r 
+f
+
+# identifiers
+.
+..
+*
+
+

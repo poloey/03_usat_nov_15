@@ -1,0 +1,38 @@
+# html tag
+html 
+head
+title
+body
+p
+h (1-6)
+ul
+ol
+li 
+form
+input
+button
+table
+tr
+th
+td
+a
+img
+
+# html attribute
+border [number]
+action [some page]
+method [get, post]
+input > type [text, email, file, submit, radio, checkbox]
+href [some link]
+src[image path]
+id 
+class
+
+
+
+
+
+
+
+
+

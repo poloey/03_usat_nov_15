@@ -1,2 +1,2 @@
-# [:house: Feni UY Sat  Batch Home Page](http://poloey.github.io/usat)
+# [:house: Feni UY Sat  Batch Home Page](http://github.com/poloey/usat)
 # Class 03
